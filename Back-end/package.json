@@ -18,5 +18,6 @@
     "passport-jwt": "*"
   },
   "author": "Akash kaushik",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
